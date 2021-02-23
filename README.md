@@ -1,6 +1,6 @@
 # Team Topologies Book References
 
-References from the Team Topologies book in formats suitable for research tools:
+References from the [Team Topologies book by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book) in formats suitable for research tools:
 
 * [BibTeX](Team-Topologies-references-BibTeX.bib)
 * [CSV](Team-Topologies-references-CSV.csv)
